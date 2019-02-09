@@ -1,0 +1,9 @@
+Finish ToDo
+~/Projects/Rust/todo
+2018-12-01
+Update Website
+~/Projects/Other/PersonalWebsite
+2018-12-15
+Get Counter A Working
+~/Projects/Other/SlackBots/count1
+2018-12-01
